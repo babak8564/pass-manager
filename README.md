@@ -1,6 +1,6 @@
-# Welcome to streamlit
+# Welcome to Password Manager
 
-This is the app you get when you run `streamlit hello`, extracted as its own app.
+This is the app you can mange your important passwords securly anywhere.
 
 Edit [Hello.py](./Hello.py) to customize this app to your heart's desire. ❤️
 
